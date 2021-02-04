@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'FXFirstChatCore_Example' do
+  pod 'FXFirstChatCore', :path => '../'
+
+  target 'FXFirstChatCore_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
