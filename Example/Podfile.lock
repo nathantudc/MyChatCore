@@ -1,0 +1,16 @@
+PODS:
+  - FXFirstChatCore (0.1.0)
+
+DEPENDENCIES:
+  - FXFirstChatCore (from `../`)
+
+EXTERNAL SOURCES:
+  FXFirstChatCore:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FXFirstChatCore: 89c4943776ab3ce5aba63f62314d84a24afa7e5b
+
+PODFILE CHECKSUM: e56e3b5b18f91295758ab24675efbe7c57dc5e31
+
+COCOAPODS: 1.9.3
